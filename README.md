@@ -36,7 +36,7 @@ digital-banking-landing-page/
 │
 ├── index.html
 ├── style.css
-├── images/
+├── assets/images/
 │   └── ...
 └── README.md
 ```
